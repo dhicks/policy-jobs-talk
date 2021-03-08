@@ -1,3 +1,5 @@
+View the slides here: <https://dhicks.github.io/policy-jobs-talk/>
+
 AAAS STPF: More info
 ==========
 - [Program website](http://www.stpf-aaas.org/)
