@@ -1,0 +1,227 @@
+---
+title: "Non-Academic Careers"
+subtitle: "Philosophy of Science in Science Policy"
+author: "Dan Hicks"
+
+format: 
+    revealjs:
+        width: 1.1*1440
+        height: 1080
+        toc-depth: 1
+        slide-number: true
+        self-contained: true
+        theme: [default, custom.scss]
+---
+
+
+# Who? 
+
+## Science and society
+
+:::: {.columns}
+::: {.column .smallish}
+- Philosophy of science
+    - Plus history and sociology of science, 
+    gender studies
+- Science can be a force for good
+- But often has been actively harmful
+    - race science and eugenics
+    - naturalizing sexism and cissexism
+    - weapons of mass destruction
+    - fossil fuels, plastics, and pesticides
+    - colonialism, propaganda, and psychological torture
+- What to do? [Democratize science and policy](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP3317)
+- Engagement with scientists, publics, and policymakers
+
+:::
+::: {.column}
+
+[![Fernández Pinto and Hicks 2019, DOI: 10.1289/EHP3317](fig1.png)](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP3317)
+
+:::
+::::
+
+
+
+## My postdoc Odyssey
+
+- Born in Bay Area, grew up in Sierra Nevada foothills
+- PhD in 2012
+- Various postdocs from 2012-2015
+- ~150-200 tenure-track job applications
+- All unsuccessful
+- Philosophy's ivory tower culture
+    - The more abstract the better
+    - Any philosophy that's useful is "merely applied"
+    - Other disciplines are inferior to philosophy
+
+## My postdoc Odyssey
+
+- 2015-17: **AAAS Science and Technology Policy Fellowship**
+- 2017: Whoops, Trump, finding a policy job is impossible
+- 2017: Back to California for yet another postdoc
+    - Expected to end up in staff position at UC Davis, 
+      in state government, or the tech industry
+- 2019: Miraculous TT job offer from UC Merced
+
+
+
+# AAAS Fellowship
+
+## AAAS Science and Technology Policy Fellowship
+
+::: {.smallish}
+- First cohort in 1973
+- Placing "science PhDs" into the federal government
+- Network of a few thousand alumni
+- In my cohort, ~280 participants
+    - 15-20 social scientists and humanists
+- Wide range of participating agencies
+    - EPA, NSF, NIH, USAID, State, Energy, USDA, Defense
+- Up to 2 years
+- Historically, roughly 1/3 of alumni end up in government, 1/3 in academia, 1/3 in nonprofits
+- Open to PhDs and engineers at all career stages
+:::
+
+## 2015-16: Environmental Protection Agency
+
+### Chemical Safety for Sustainability ###
+
+:::: {.columns}
+::: {.column}
+- HTT: High-throughput toxicology
+- [How has HTT been received by the scientific community?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168597) 
+- Why have/haven't regulatory offices adopted HTT? 
+- [Why do environmental organizations object to HTT?](http://www.journals.uchicago.edu/doi/abs/10.1086/694771) 
+
+:::
+::: {.column}
+
+[![EPA-conducted HTT papers and the broader scientific community](citenet0_partition.png)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168597)
+:::
+::::
+
+
+## 2016-17: National Science Foundation
+
+### NRI: National Robotics Initiative ###
+
+:::: {.columns}
+::: {.column}
+
+[![NRI-funded novel collaborations](3-novel_pairs.png)](https://ieeexplore.ieee.org/document/8762223) 
+
+:::
+::: {.column}
+
+- [Has NRI promoted interdisciplinary robotics research?](https://ieeexplore.ieee.org/document/8762223) 
+- [How can policymakers anticipate controversies surrounding robotics?](http://ieeexplore.ieee.org/document/8307143/)
+- What role should social science and humanities play in robotics research policy?
+
+:::
+::::
+
+## AAAS STPF: More info
+
+- [Program website](http://www.stpf-aaas.org/)
+- [Eligibility](https://www.aaas.org/programs/science-technology-policy-fellowships/become-fellow-application)
+    - Doctoral level **science degree** or master's in engineering
+        - Includes any field of social science
+        - History, philosophy, sociology of science are also good
+        - Is your kind of research funded by NIH or NSF? 
+    - US citizen
+- Applications due November 1 each year
+- Must have PhD in hand when applying
+- Separate application processes for executive branch vs. Congress
+
+## Other fellowships
+
+- [Filterable list maintained by AAAS](https://www.aaas.org/resources/science-policy-resources)
+- [AAAS Mass Media Science & Engineering Fellowship](https://www.aaas.org/programs/mass-media-fellowship)
+- [California S&T Policy Fellowships](https://ccst.us/ccst-science-fellows-program/)
+- [Christine Mirzayan S&T Policy Graduate Fellowships](https://www.nationalacademies.org/our-work/the-christine-mirzayan-science--technology-policy-graduate-fellowship-program)
+- [ACLS Leading Edge Fellowships](https://www.acls.org/programs/leading-edge/) (Humanities PhDs)
+- [Presidential Management Fellowship](https://www.pmf.gov/) (PMF)
+
+
+# Academia, government, nonprofits
+
+
+## Academia: Pros and cons ##
+
+:::: {.columns}
+::: {.column}
+
+### Pro
+
+- Academic freedom
+- Great job security and benefits (if you have tenure)
+- Salaries okay to pretty good
+- **Academic summers**
+
+:::
+::: {.column}
+
+### Con
+
+- Publish or perish
+- Disciplinary policing
+- Can't choose where you live
+- Job market for TT positions is ridiculously broken
+- Job security and benefits vary wildly if you're not tenured faculty
+:::
+::::
+
+
+## Government
+
+:::: {.columns}
+::: {.column}
+
+### Pro
+
+- DC and state capitols have good quality of life
+- Good to great job security and benefits
+- Direct social/policy impact of your work
+- Job market can be complicated but usually isn't super tight
+
+:::
+::: {.column}
+
+### Con
+
+- Report to a manager or supervisor
+- Standard business hours
+- Hatch Act
+- Constrained by political priorities
+:::
+::::
+
+
+## Nonprofit/Advocacy
+:::: {.columns}
+::: {.column}
+
+### Pro
+
+- Offices are generally in major cities
+- (Somewhat) direct social/policy impact
+- Not constrained by Hatch Act or political priorities
+
+:::
+::: {.column}
+
+### Con
+
+- Salaries generally not great
+- Constrained by org's priorities and values
+
+:::
+::::
+
+
+# Questions?
+
+<dhicks4@ucmerced.edu>
+
+Slides: *[url]*
