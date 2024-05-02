@@ -1,7 +1,7 @@
 ---
 title: "Non-Academic Careers"
 subtitle: "Philosophy of Science in Science Policy"
-author: "Dan Hicks"
+author: "Dan Hicks </br>[`dhicks.github.io/policy-jobs-talk`](https://dhicks.github.io/policy-jobs-talk)"
 
 format: 
     revealjs:
@@ -224,4 +224,4 @@ format:
 
 <dhicks4@ucmerced.edu>
 
-Slides: *[url]*
+[`dhicks.github.io/policy-jobs-talk`](https://dhicks.github.io/policy-jobs-talk)
